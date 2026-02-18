@@ -1,13 +1,21 @@
 # Financial Inclusion in Africa – Zindi Challenge
 
-## Overview
+**Due:** 8 Feb by 0:59  
+**Points:** 100  
+**Submission:** File upload  
+**Availability:** 2 Feb at 1:00 – 9 Feb at 0:30  
+
+---
+
+## 📘 Overview
 Zindi is a platform that hosts data science competitions aimed at solving real-world challenges in Africa.  
 This repository documents my participation in the **Financial Inclusion in Africa Challenge**, where the goal was to use data to predict which individuals are most likely to have or use a bank account.  
+
 Financial inclusion is a key step toward economic development, and this challenge provided an opportunity to apply machine learning to a real-world socioeconomic issue.
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 - Gain practical experience using supervised machine learning on real data.  
 - Analyze, prepare, and model data individually.  
 - Practice using metrics such as accuracy, precision, and recall to evaluate models.  
@@ -15,27 +23,27 @@ Financial inclusion is a key step toward economic development, and this challeng
 
 ---
 
-## Process
+## 🛠️ Process
 - Explored the dataset to identify the target variable (`bank_account`).  
 - Examined important features such as age, gender, education, and location.  
-- Cleaned and preprocessed the data (handled categorical variables, ensured dataset alignment).  
+- Cleaned and preprocessed the data (handled missing values, encoded categorical variables, ensured dataset alignment).  
 - Built supervised learning models (e.g., logistic regression, decision tree, random forest).  
-- Evaluated models using accuracy and precision.  
+- Evaluated models using accuracy, precision, and recall.  
 - Generated predictions and submitted them to Zindi for leaderboard scoring.  
 
 ---
 
-## Deliverables
+## 📂 Deliverables
 - **Reflection Note (PDF/Word)**  
-  - Methods tried.  
-  - Challenges faced.  
-  - Key insights about financial inclusion.  
-  - Lessons learned from the competition.  
+  - Methods tried  
+  - Challenges faced  
+  - Key insights about financial inclusion  
+  - Lessons learned from the competition  
 
 - **Leaderboard Screenshot**  
-  - Captured score on the Zindi leaderboard.  
+  - Captured score on the Zindi leaderboard  
 
 ---
 
-## Author
-This work was completed individually as part of the Zindi Financial Inclusion in Africa Challenge.  
+## 👩‍💻 Author
+This work was completed individually by **Pauline Onyango** as part of the Zindi *Financial Inclusion in Africa Challenge*.
